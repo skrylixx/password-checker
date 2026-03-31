@@ -57,5 +57,4 @@ Tip: Include at least one special character
 * Make it interactive with GUI using `tkinter`
 * Handle multiple passwords in one run
 
-````
 
